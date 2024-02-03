@@ -75,7 +75,7 @@ color: whitesmoke;
 @media(max-width:600px){
     #navbarcolor{
         position: fixed;
-        width: 368.5px;
+        width: 100%;
         margin-top: -100px;
     }
     
